@@ -82,7 +82,7 @@ a{
 .paragrafo{
     padding: 10px;
     text-align: justify;
-
+    margin-left: 25-px;
 }
 
 /* Ajustando o rodapé*/
@@ -103,6 +103,6 @@ a{
 .redeLogo{
     margin: 10px;
     padding: 5px;
-    width: 30px;
-    height: auto;
+    width: 50px;
+    height: 50px;
 }
